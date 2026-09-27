@@ -1,2 +1,2 @@
 # data-engineering-mastery
-This repository is used to learn and master the fundamentals data analysis and data engineering
+A structured journey from Python and SQL fundamentals through Data Engineering, Microsoft Azure, Microsoft Fabric, Databricks, Data Science and AI, with an emphasis on production-quality projects.
